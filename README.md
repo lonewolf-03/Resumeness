@@ -2,7 +2,7 @@
 A simple website that builds resumes and CVs. The front end was built using React. For the backend, node.js was used . MongoDB was used as a databse system.
 How to run:
 1- Navigate to the resumness-backend folder from your terminal.
-2- run nmpm install
+2- run nmp install
 3- create .env file and add three environemnt variables:
 JWT_SECRET (key for json web token)
 JWT_EXPIRE (in milliseconds)
