@@ -1,5 +1,5 @@
 # Resumeness
-A simple website that builds resumes and CVs. The front end was built using React. For the backend we used node.js . We used MongoDB as a databse system.
+A simple website that builds resumes and CVs. The front end was built using React. For the backend, node.js was used . MongoDB was used as a databse system.
 How to run:
 1- Navigate to the resumness-backend folder from your terminal.
 2- run nmpm install
